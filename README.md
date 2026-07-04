@@ -143,7 +143,7 @@ Random values are generated for usage simulation, so the final output may be dif
 Only source code and configuration files are included in this repository.
 ```
 
-## Notes
+## Notes
 -  The project uses Apache Ignite 3 Thin Client API.
 -  The application starts with a clean table on every execution.
 -  Random values are generated for usage simulation, so the final output may be different on each run.
